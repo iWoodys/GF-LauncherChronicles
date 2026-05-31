@@ -1,0 +1,21 @@
+{
+    "version": "1.0.3",
+    "server_name": "GF Chronicles",
+    "discord_url": "https://discord.gg/tu-servidor",
+    "website_url": "https://tu-web.com",
+    "download_url": "https://tu-servidor.com/downloads/GFChronicles.zip",
+    "repair_base_url": "https://update.icestorm.online/Chronicles/",
+    "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
+    "client_update_es_url": "https://update.icestorm.online/clientupdate/dataEs.zip",
+    "client_update_en_url": "https://update.icestorm.online/clientupdate/dataEn.zip",
+    "discord_news_api_url": "http://127.0.0.1:8090/news",
+    "discord_news_channels": [
+        "123456789012345678",
+        "234567890123456789"
+    ],
+    "game_folder": "GFChronicles\\Chronicles",
+    "game_exe": "GrandFantasia.exe",
+    "game_args": [
+        "EasyFun"
+    ]
+}
