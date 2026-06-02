@@ -10,7 +10,7 @@
   "client_update_en_url": "https://update.icestorm.online/clientupdate/dataEn.zip",
   "discord_news_api_url": "https://bot-chronicles.onrender.com/news",
   "discord_news_channels": [],
-  "game_folder": "GFChronicles\\Chronicles",
+  "game_folder": "games\\GFChronicles\\Chronicles",
   "game_exe": "GrandFantasia.exe",
   "game_args": [
     "EasyFun"
